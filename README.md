@@ -5,4 +5,4 @@ I work on AI models, simulations, and tools that solve real problems (or just sc
 Big fan of bold ideas, clever hacks, and breaking things to learn how they work.
 
 
-📫 Reach me on [GitHub](https://github.com/Vedant9500) or [vedantium.dev](https://vedantium.dev)
+📫 Reach me on [Telegram](https://t.me/Vedant_s_d) or [vedantium.dev](https://vedantium.dev)
