@@ -1,9 +1,7 @@
 # 👋 Hi, I’m Vedant
 
-I'm a computer engineering student interested in intelligent systems.
-
-I build AI models, simulations, and tools as part of learning and exploration.
-
+I'm a computer engineering student interested in intelligent systems.<br>
+I build AI models, simulations, and tools as part of learning and exploration.<br>
 Curious about ideas, systems, and how things break and improve.
 
 
