@@ -5,4 +5,5 @@ I build AI models, simulations, and tools as part of learning and exploration.<b
 Curious about ideas, systems, and how things break and improve.
 
 
-📫 Reach me on [Telegram](https://t.me/Vedant_s_d) or [vedantium.dev](https://vedantium.dev)
+📫 **Connect with me:** [![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=flat&logo=telegram&logoColor=white)](https://t.me/Vedant_s_d) 
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://vedantium.dev)
