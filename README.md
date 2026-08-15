@@ -12,4 +12,4 @@ Curious about ideas, systems, and how things break and improve.
 
 
 
-📫 Reach me on [Telegram](https://t.me/Vedant_s_d) or [vedantium.dev](https://vedantium.dev)
+📫 Reach me on [Telegram](https://t.me/Vedant_s_d)
