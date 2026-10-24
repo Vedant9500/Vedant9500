@@ -1,15 +1,8 @@
-# 👋 Hi, I’m Vedant
+### 👋 Hi, I'm Vedant
 
+Interested in intelligent systems, numerical simulations, and fast dev tools.
 
+Most of my repos are things I built from scratch to figure out how they work under the hood, or Linux/CLI tools I wanted for my own setup. Currently writing a lot of Rust, C++, and Python.
 
-I'm a computer engineering student interested in intelligent systems.<br>
+📫 Reach me on [Telegram](https://t.me/Vedant_s_d)or check out my [site](https://vroid-is.my.id/)
 
-I build AI models, simulations, and tools as part of learning and exploration.<br>
-
-Curious about ideas, systems, and how things break and improve.
-
-
-
-
-
-📫 Reach me on [Telegram](https://t.me/Vedant_s_d)
